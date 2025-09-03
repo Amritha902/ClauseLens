@@ -1,3 +1,4 @@
+<img width="1024" height="1024" alt="ChatGPT Image Sep 3, 2025, 08_10_04 PM" src="https://github.com/user-attachments/assets/41fcf067-02da-494e-9865-7c97b4df5201" />
 # ⚖️ ClauseLens — AI Legal Doc Demystifier (Dark iOS UI)
 
 Built for Google GenAI Hackathon (Student Track). Upload a contract → get a plain-language summary, risk flags with severity, safer rewrites with inline diff, negotiation scripts, a risk radar, a contract graph, and an exportable dark report.
