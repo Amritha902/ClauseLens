@@ -1,5 +1,5 @@
 
-### ⚖️ ClauseLens — AI Legal Doc Demystifier (Dark iOS UI)
+# ⚖️ ClauseLens — AI Legal Doc Demystifier (Dark iOS UI)
 
 Built for Google GenAI Hackathon (Student Track). Upload a contract → get a plain-language summary, risk flags with severity, safer rewrites with inline diff, negotiation scripts, a risk radar, a contract graph, and an exportable dark report.
 
