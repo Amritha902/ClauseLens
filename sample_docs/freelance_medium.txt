@@ -1,0 +1,9 @@
+Client: TechCo Pvt Ltd
+Contractor: Rahul S.
+Scope: UI/UX redesign for mobile app.
+Fees: Fixed ₹80,000; payment in 60 days after final delivery.
+IP: All rights (including pre-existing know-how) belong to the client.
+Confidentiality: Contractor shall not disclose information for 5 years.
+Indemnity: Contractor indemnifies Client for all claims, direct or indirect.
+Termination: Client may terminate for convenience with 2 days' notice.
+Dispute Resolution: Courts of Mumbai only.
